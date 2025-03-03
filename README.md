@@ -1,2 +1,6 @@
 # crystall-skull
-replication of mtehods for a curved glass coverslip
+replication of methods for a curved glass coverslip
+
+https://www.sciencedirect.com/science/article/pii/S221112471631676X
+
+
